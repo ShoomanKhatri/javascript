@@ -8,3 +8,11 @@ let score=33
 console.log(typeof score);
 let change=String(score);//in js semicolon is not mandatory
 console.log( typeof change)
+console.log(5>2);
+console.log("2"==2);
+console.log("2"===2);
+
+
+
+
+
