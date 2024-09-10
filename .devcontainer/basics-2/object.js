@@ -40,7 +40,8 @@ console.log(Object.values(obj1));
 
 
 
-//paart 18  10min
+//paart 19
+
 
 
 
