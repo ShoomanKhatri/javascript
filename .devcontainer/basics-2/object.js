@@ -25,15 +25,22 @@
 // console.log(bio.fullname);
 
 let obj1={1:"a",2:"b"}
-let obj2={1:"a",2:"b"}
-let obj3={1:"a",2:"b"}
+let obj2={3:"a",4:"b"}
+let obj3={5:"a",6:"b"}
 
-let obj4=Object.assign({},obj1,obj2,obj3)
+//let obj4=Object.assign({},obj1,obj2,obj3)//giving curly brackets at first is not mandotary but its a good way to do it
+
+//another way to keep obj together called as spread method
+let obj4={...obj1,...obj2,...obj3}
 console.log(obj4);
+console.log(Object.keys(obj1));
+
+console.log(Object.values(obj1));
 
 
 
-//paart 17  10min
+
+//paart 18  10min
 
 
 
