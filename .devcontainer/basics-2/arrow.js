@@ -8,3 +8,5 @@ let next=(_one,_two)=>_one+_two
 console.log(next(3,4));
 
 
+
+
