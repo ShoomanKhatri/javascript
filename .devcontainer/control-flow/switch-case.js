@@ -13,13 +13,3 @@ switch (mynum) {
     
         break;
 }
-for(i=2;i<=5;i=i+2){
-    console.log(i);
-    
-}
-let map=new Map()
-map.set('nep',"ktm")
-map.set('ind',"del")
-map.set('usa',"dc")
-
-console.log(map);
